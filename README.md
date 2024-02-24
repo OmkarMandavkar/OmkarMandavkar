@@ -1,5 +1,5 @@
 # 💫 About Me:
-JAVA DEVELOPER
+JAVA DEVELOPER<br>
 I'm currently working on Java, MySQL and JDBC-based projects<br>
 
 
