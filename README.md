@@ -1,6 +1,5 @@
 # 💫 About Me:
-JAVA DEVELOPER<br>
-I'm currently working on Java, MySQL and JDBC-based projects<br>
+I am an enthusiastic engineering graduate with a strong background in coding and designing. I have a solid understanding of Java, SQL, and JDBC, which allows me to develop innovative software solutions. I am always eager to learn new technologies and stay updated with the latest industry trends. My collaborative nature and ability to provide valuable support make me a valuable asset to any team. I am known for my punctuality and commitment to delivering high-quality work. With my passion for coding and designing, I am determined to make a significant impact in the field of technology.<br>
 
 
 ## 🌐 Socials:
